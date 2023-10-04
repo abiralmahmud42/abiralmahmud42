@@ -23,7 +23,7 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS / SQL
 <a href="https://instagram.com/_.4nkur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.4nkur" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wolfsbaneankur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wolfsbaneankur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abir_al_mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abir_al_mahmud" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/Colonel_B4N3" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconpacks.net%2Ffree-icon%2Freddit-logo-2436.html&psig=AOvVaw2XAarIBr0ZsCuKMYfFebu2&ust=1696530321964000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjK6JaC3YEDFQAAAAAdAAAAABAE" alt="Colonel_B4N3" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Colonel_B4N3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Colonel_B4N3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
