@@ -1,7 +1,8 @@
-(https://media.licdn.com/dms/image/D4D16AQENU6SlwcLfTw/profile-displaybackgroundimage-shrink_350_1400/0/1696436544783?e=1701907200&v=beta&t=yuSGG9FxMmfFIjRv7zfKhrzYyBpWOr_Z1ecS8M1adJA)
+![Data analyst and Backend developer](https://media.licdn.com/dms/image/D4D16AQENU6SlwcLfTw/profile-displaybackgroundimage-shrink_350_1400/0/1696436544783?e=1701907200&v=beta&t=yuSGG9FxMmfFIjRv7zfKhrzYyBpWOr_Z1ecS8M1adJA)
+
 ##### Hi there 👋, I'm Abir Al Mahmud ✨
 #### Data analyst and Backend developer
-![Data analyst and Backend developer]
+
 
 New data analyst with an enthusiasm for turning unstructured data into useful data. Skilled in machine learning, statistical analysis, and data visualization. commited to making data-driven decisions and addressing challenging issues. I'm motivated to work with others and add to innovative GitHub projects.
 
@@ -18,14 +19,7 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS / SQL
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiralmahmud42)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abiralmahmud42&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abiralmahmud42)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abiralmahmud42)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abiralmahmud42)  
-
-![Profile views](https://gpvc.arturio.dev/abiralmahmud42)  
